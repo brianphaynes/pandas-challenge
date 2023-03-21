@@ -1,2 +1,9 @@
 PyCity Schools Analysis
-In summary, for the most part, small to medium sized school students did better in math and reading. They were especially better at math, but smaller schools had better averages in both subjects than large schools did. Higher budget also did not mean better performance from the students. The higher budget schools actually did worse than the lower budget schools. Another comparison from the analysis that I think is noteworthy is that charter schools and district schools have a big gap in performance, with charter doing better than district, most drastically in math with 66% of district schools passing and 93% of charter schools passing, which is a 33.9623% difference! 
+In summary, for the most part, small to medium sized school students did better in math and reading.
+They were especially better at math, but smaller schools had better averages in both subjects than large 
+schools did. Higher budget also did not mean better performance from the students. The higher budget 
+schools actually did worse than the lower budget schools.
+Another comparison from the analysis that I think is noteworthy is that charter schools and district
+schools have a big gap in performance, with charter doing better than district, most drastically 
+in math with 66% of district schools passing and 93% of charter schools passing,
+which is a 33.9623% difference! 
